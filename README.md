@@ -1,9 +1,9 @@
 # MonProjetdePHP
 Projet de création un blog pour un écrivain en PHP/POO en respectant l’architecture MVC.
-CONTEXTE 
+LE SUJET:  
 "Vous décrochez un contrat avec un écrivain. En tant que développeur, vous devez lui monter une plateforme pour son prochain ouvrage. Seule contrainte : votre client ne veut pas de site sur Wordpress. Vous devez donc développer un moteur de blog en PHP et MySQL."
 
-COMPETENCES VALIDEES
+COMPETENCES: 
 Créer un site internet, de sa conception à sa livraison
 Insérer ou modifier les données d’une base
 Organiser le code en langage PHP
